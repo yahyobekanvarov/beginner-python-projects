@@ -15,6 +15,8 @@ This repository contains small Python projects written while learning the basics
 
 4. **Hypotenuse Calculator**  
    Uses the Pythagorean theorem to calculate the hypotenuse of a right triangle.
+5. **Simple Calculator**  
+   Takes two numbers and an operator (+, -, *, /), and prints the result rounded to 3 decimals.
 
 ---
 
